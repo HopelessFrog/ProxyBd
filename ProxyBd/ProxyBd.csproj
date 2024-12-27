@@ -13,4 +13,9 @@
       </None>
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+      <PackageReference Include="Titanium.Web.Proxy" Version="3.2.2-beta" />
+    </ItemGroup>
+
 </Project>
